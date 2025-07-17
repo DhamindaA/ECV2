@@ -23,7 +23,7 @@ Before installing, ensure you have:
 
 ### 1. Get the Update Site ZIP
 
-- Visit the [GitHub Release Page](https://github.com/DhamindaA/ECV2/releases/tag/v1.0.0)
+- Visit the [GitHub Release Page](https://github.com/DhamindaA/ecv2-eclipse-plugin/releases/tag/v1.0.0)
 - Download: `ecv2-updatesite.zip`
 - Save it anywhere on your computer
 
@@ -76,7 +76,7 @@ To launch the main view:
 
 ### Linking Thresholds and Ontology URIs
 
-1. Download [Resources.zip](https://github.com/DhamindaA/ECV2/blob/main/Resources.zip)  
+1. Download [resources.zip](https://github.com/DhamindaA/ecv2-eclipse-plugin/blob/main/Resources.zip)  
    (contains `thresholds.json` and `ontology.json`)
 2. Extract and save the files anywhere
 3. In Eclipse:
@@ -86,7 +86,7 @@ To launch the main view:
 
 ### Importing Evidence
 
-1. Download [Evidence.zip](https://github.com/DhamindaA/ECV2/blob/main/Evidence.zip)  
+1. Download [evidence.zip](https://github.com/DhamindaA/ecv2-eclipse-plugin/blob/main/Evidence.zip)  
    (contains `FormalModelChecking.json` and `ROS_Simulation.json`)
 2. In Eclipse, go to the `Verification` menu  
 3. Select `Import Evidence…`
