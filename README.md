@@ -1,11 +1,8 @@
 # ECV2: Eclipse Plugin for Corroborative Verification and Validation for Autonomous Systems
 
-**Centre for Robotic Autonomy in Demanding and Long Lasting Environments (CRADLE)**  
-*The University of Manchester*
-
 ## 📘 Overview
 
-This plugin supports corroborative verification and validation (V&V) workflows for autonomous systems. It provides a unified Eclipse-based interface for comparing evidence from multiple verification sources.
+This plugin supports corroborative verification and validation (V&V) workflow for an autonomous system. 
 
 ---
 
