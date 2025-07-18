@@ -77,7 +77,7 @@ To launch the main view:
 ### Linking Thresholds and Ontology URIs
 
 1. Download [resources.zip](https://github.com/DhamindaA/ecv2-eclipse-plugin/blob/main/Resources.zip)  
-   (contains `thresholds.json` and `ontology.json`)
+   (contains `thresholds.json` and `ontology.json` to test the plugin)
 2. Extract and save the files anywhere
 3. In Eclipse:
    - Go to: `Window > Preferences > Corroborative V&V Resources`
@@ -87,7 +87,7 @@ To launch the main view:
 ### Importing Evidence
 
 1. Download [evidence.zip](https://github.com/DhamindaA/ecv2-eclipse-plugin/blob/main/Evidence.zip)  
-   (contains `FormalModelChecking.json` and `ROS_Simulation.json`)
+   (contains `FormalModelChecking.json` and `ROS_Simulation.json` to test the plugin)
 2. In Eclipse, go to the `Verification` menu  
 3. Select `Import Evidence…`
 
@@ -130,6 +130,6 @@ To remove the plugin:
 
 ## 📩 Support
 
-For questions or help, contact:  
+For questions or help, please contact:  
 **Dhaminda Abeywickrama**  
 📧 Dhaminda.Abeywickrama@manchester.ac.uk
