@@ -81,7 +81,7 @@ To launch the main view:
 2. Extract and save the files anywhere
 3. In Eclipse:
    - Go to: `Window > Preferences > Corroborative V&V Resources`
-4. Browse and select the folder containing the JSON files (e.g., `C:\Users\username\resources`)
+4. Browse and select the folder containing the json files (e.g., `C:\Users\username\resources`)
 5. Click **Apply and Close**
 
 ### Importing Evidence
@@ -133,3 +133,11 @@ To remove the plugin:
 For questions or help, please contact:  
 **Dhaminda Abeywickrama**  
 📧 Dhaminda.Abeywickrama@manchester.ac.uk
+
+---
+
+## 📄 License
+
+The ECV2 plugin binary is provided for academic and research use only.
+Redistribution, modification, or commercial use is not permitted without prior written permission from the author.
+© 2025 Dhaminda Buddhika Abeywickrama, The University of Manchester
