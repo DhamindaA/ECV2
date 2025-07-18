@@ -138,6 +138,5 @@ For questions or help, please contact:
 
 ## 📄 License
 
-The ECV2 plugin binary is provided for academic and research use only.
+The ECV2 plugin binary is provided for academic and research use only. 
 Redistribution, modification, or commercial use is not permitted without prior written permission from the author.
-© 2025 Dhaminda Buddhika Abeywickrama, The University of Manchester
