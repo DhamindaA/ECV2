@@ -90,6 +90,7 @@ To launch the main view:
    (contains `FormalModelChecking.json` and `ROS_Simulation.json` to test the plugin)
 2. In Eclipse, go to the `Verification` menu  
 3. Select `Import Evidence…`
+4. Select an Evidence file (e.g., PRISM_ModelChecking.json, ROS_Simulations.json) one at a time
 
 ### Viewing Cross-Evidence Comparison
 
