@@ -2,7 +2,7 @@
 
 ## 📘 Overview
 
-This plugin supports corroborative verification and validation (V&V) workflow for an autonomous system. 
+This plugin supports corroborative verification and validation (V&V) workflow for an autonomous system. Please refer to the user guide (with images), for detailed instructions on installing and using this plugin: https://github.com/DhamindaA/ecv2-eclipse-plugin/blob/main/ecv2-userguide.pdf
 
 ---
 
